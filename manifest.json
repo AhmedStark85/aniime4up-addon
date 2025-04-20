@@ -1,0 +1,15 @@
+{
+  "id": "aniime4up-addon",
+  "version": "1.0.0",
+  "name": "Aniime4up",
+  "description": "مشاهدة أنمي مترجم من موقع anime4up",
+  "logo": "https://anime4up.cam/wp-content/uploads/2020/07/logo.png",
+  "background": "https://anime4up.cam/wp-content/uploads/2020/07/logo.png",
+  "types": ["series"],
+  "catalogs": [],
+  "resources": ["stream"],
+  "idPrefixes": ["tt"],
+  "behaviorHints": {
+    "adult": false
+  }
+}
